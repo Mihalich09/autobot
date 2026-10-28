@@ -11,7 +11,7 @@ from aiogram.enums import ChatMemberStatus
 BOT_TOKEN = '8716212766:AAFaBk0dkVUzvODObE44P2ffWYrkm8XZkCI' 
 
 # ОБХОД КЭША: добавлено ?v=2
-GAME_URL = 'https://mihalich09.github.io/autoempiremiksss.githab.io/?v=2' 
+GAME_URL = 'https://auto-empire.mihailnarmitov475.workers.dev/' 
 
 CHANNEL_LINK = 'https://t.me/+CyFuSUhjoHo0YzUy' 
 CHANNEL_ID = -1003965970211 
